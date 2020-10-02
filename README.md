@@ -4,12 +4,9 @@ Operating systems project 3.
 Semaphores and Operating System Simulator
 
 To Run Program:
-	It can be run as "./oss" after executable has been made by make.
-	
-	If it is run with just "./oss" the defaults will be used and the 
-	file "logfile.txt" will be written to.
-	
-	It also can be ran as described in the project with the command line options.
+	It can be run as "./oss" after executable has been made by make. If it is run with just "./oss" the defaults will be used and the  file "logfile.txt" will be written to.
+
+It also can be ran as described in the project with the command line options.
 	
 Note: 
 	Using the defaults and executing with just "./oss" will produce results in file for 
